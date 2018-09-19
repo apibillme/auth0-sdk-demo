@@ -2,20 +2,20 @@
 
 
 [[projects]]
-  digest = "1:f85177c32a6c87958430dc37a3bf7f88ad6ff5ba86958af17d4792a88a3e5d9d"
+  digest = "1:7b63fa434d9959223cbcbfce19b3b50418e20215b77ef48973a1837a5ad04653"
   name = "github.com/apibillme/auth0-sdk"
   packages = ["."]
   pruneopts = "UT"
-  revision = "c5a87d8ffc75738baa74bac11931449401ab167a"
-  version = "1.0.0"
+  revision = "484482013e5bf2c0bc74730db2dc196c6ea5b314"
+  version = "2.0.0"
 
 [[projects]]
-  digest = "1:3531f911aec379f822933a9bc9fa942066827a1575f27114d72d89e0e05b01d9"
+  digest = "1:c6f710978ee8fa52bb97e5456e79cd0a7bc063078b6bf8303ad5567791eb18bf"
   name = "github.com/apibillme/restly"
   packages = ["."]
   pruneopts = "UT"
-  revision = "ad932ea1b80d3968f6e0760483340c43ad8ab637"
-  version = "1.1.1"
+  revision = "44b77466ba81c7c6eed4d234e88355a8fe5d937c"
+  version = "2.0.0"
 
 [[projects]]
   branch = "master"
